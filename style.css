@@ -1,0 +1,11 @@
+/* Box Model */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+/* Page */
+.page__body {
+    margin: 0;
+}
